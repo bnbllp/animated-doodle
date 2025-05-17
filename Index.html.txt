@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brush and Broom LLP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      padding: 60px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Brush and Broom LLP</h1>
+  <p>Professional Painting, Cleaning & Power Washing Services</p>
+</body>
+</html>
