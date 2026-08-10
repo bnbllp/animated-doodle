@@ -15,8 +15,8 @@ brush andbroomllp.com/
 ├── index.html                                                   # → https://brushnbroom.com/
 ├── about.html                                                   # → https://brushnbroom.com/about.html
 ├── areas-we-serve.html                                          # → https://brushnbroom.com/areas-we-serve.html
-├── move-in-move-out-bellevue-seattle.html                       # → https://brushnbroom.com/move-in-move-out-bellevue-seattle.html
-├── routine-deep-maintenance-cleaning-bellevue-seattle.html      # → https://brushnbroom.com/routine-deep-maintenance-cleaning-bellevue-seattle.html
+├── move-in-move-out-mount-vernon.html                       # → https://brushnbroom.com/move-in-move-out-mount-vernon.html
+├── routine-deep-maintenance-cleaning-mount-vernon.html      # → https://brushnbroom.com/routine-deep-maintenance-cleaning-mount-vernon.html
 ├── interior-exterior-house-painting-bellevue-seattle.html       # → https://brushnbroom.com/ (no equivalent page)
 ├── thank-you.html                                               # → https://brushnbroom.com/thank-you.html
 ├── sitemap.xml                                                  # References brushnbroom.com URLs
